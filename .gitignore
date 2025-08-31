@@ -22,10 +22,18 @@ Thumbs.db
 .cache/
 *.cache
 
-# Рабочие файлы
+# Рабочие файлы Obsidian
 .obsidian/workspace*
 .obsidian/hotkeys.json
 .obsidian/workspaces.json
+.obsidian/graph.json
+.obsidian/workspace-mobile.json
+
+# Кэш и персональные данные плагинов
+.obsidian/plugins/dataview/
+# Безопасные настройки плагинов можно синхронизировать:
+# .obsidian/plugins/*/data.json
+.obsidian/plugins/templater-obsidian/data.json
 
 # Автоматически генерируемые файлы
 auto-generated/

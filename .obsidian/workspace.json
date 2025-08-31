@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Financial/Budget_Overview.md",
+                "file": "04_Financial/Российские_особенности.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Budget_Overview"
+              "title": "Российские_особенности"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_Financial/Budget_Overview.md",
+                "file": "04_Financial/Российские_особенности.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Budget_Overview"
+              "title": "Обратные ссылки для Российские_особенности"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_Financial/Budget_Overview.md",
+                "file": "04_Financial/Российские_особенности.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Budget_Overview"
+              "title": "Исходящие ссылки из Российские_особенности"
             }
           },
           {
@@ -142,13 +142,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_Financial/Budget_Overview.md",
+                "file": "04_Financial/Российские_особенности.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Budget_Overview"
+              "title": "Структура Российские_особенности"
+            }
+          },
+          {
+            "id": "7b3b3bdb55fba147",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -166,11 +176,34 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "0af4517a4b28297f",
+  "active": "fa2275068004ce68",
   "lastOpenFiles": [
+    "13_Business/Resources_Tools/README.md",
+    "13_Business/Resources_Tools",
+    "13_Business/Team_Management/README.md",
+    "13_Business/Team_Management",
+    "13_Business/Legal_Documents/README.md",
+    "13_Business/Legal_Documents",
+    "13_Business/Knowledge_Base/README.md",
+    "13_Business/Knowledge_Base",
+    "13_Business/Operations/README.md",
+    "13_Business/Operations",
+    "13_Business/README.md",
+    "13_Business/Marketing_Sales/README.md",
+    "13_Business/Marketing_Sales",
+    "13_Business/Financial_Management/README.md",
+    "13_Business/Financial_Management",
+    "13_Business/Clients_Projects/README.md",
+    "13_Business/Clients_Projects",
+    "13_Business/Business_Plan/README.md",
+    "13_Business/Business_Plan",
+    "13_Business/Company_Overview/README.md",
+    "13_Business/Company_Overview",
+    "04_Financial/Budget_Overview.md",
     "03_Professional/Projects_Portfolio/README.md",
     "03_Professional/Projects_Portfolio/Ideas_Backlog/README.md",
     "03_Professional/Projects_Portfolio/Completed_Projects/README.md",
@@ -184,28 +217,6 @@
     "04_Financial/Investments/Stocks_Bonds/README.md",
     "04_Financial/Investments/Portfolio_Overview/README.md",
     "04_Financial/Taxes/README.md",
-    "04_Financial/Insurance/README.md",
-    "04_Financial/Income_Sources/README.md",
-    "04_Financial/Expenses_Tracking/README.md",
-    "12_Archive/README.md",
-    "11_Systems_Templates/README.md",
-    "10_Health_Wellness/README.md",
-    "09_Creative_Hobbies/README.md",
-    "08_Knowledge_Learning/README.md",
-    "07_Life_Management/README.md",
-    "06_Time_Calendar/README.md",
-    "05_Relationships/README.md",
-    "04_Financial/Investments/README.md",
-    "04_Financial/Monthly_Budget/README.md",
-    "04_Financial/Taxes",
-    "04_Financial/Insurance",
-    "04_Financial/Financial_Goals",
-    "04_Financial/Investments/Real_Estate",
-    "04_Financial/Investments/Crypto",
-    "04_Financial/Investments/Stocks_Bonds",
-    "04_Financial/Investments/Portfolio_Overview",
-    "04_Financial/Investments",
-    "04_Financial/Expenses_Tracking",
-    "04_Financial/Income_Sources"
+    "04_Financial/Insurance/README.md"
   ]
 }

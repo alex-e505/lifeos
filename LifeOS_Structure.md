@@ -15,7 +15,8 @@ lifeos/
 ├── 📁 09_Creative_Hobbies/    # Творчество и хобби
 ├── 📁 10_Health_Wellness/     # Здоровье и благополучие
 ├── 📁 11_Systems_Templates/   # Системы и шаблоны
-└── 📁 12_Archive/             # Архив
+├── 📁 12_Archive/             # Архив
+└── 📁 13_Business/            # Бизнес и предпринимательство
 ```
 
 ---
@@ -228,6 +229,24 @@ lifeos/
 ├── Past_Relationships/    # Прошлые отношения
 ├── Outdated_Documents/    # Устаревшие документы
 └── Historical_Data/       # Исторические данные
+```
+
+---
+
+## 📁 13_Business - Бизнес и предпринимательство
+
+```
+13_Business/
+├── Company_Overview/       # Обзор компании
+├── Business_Plan/         # Бизнес-план и стратегия
+├── Clients_Projects/      # Клиенты и проекты
+├── Financial_Management/  # Финансовое управление
+├── Marketing_Sales/       # Маркетинг и продажи
+├── Operations/           # Операционная деятельность
+├── Knowledge_Base/       # База знаний и экспертность
+├── Legal_Documents/      # Юридические документы
+├── Team_Management/      # Управление командой
+└── Resources_Tools/      # Ресурсы и инструменты
 ```
 
 ---

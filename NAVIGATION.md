@@ -12,6 +12,7 @@
 - [👤 Мой профиль](01_Profile/Personal_Info.md)
 - [🔮 Жизненные цели](02_Goals_Achievements/Life_Vision.md)
 - [💼 Активные проекты](03_Professional/Projects_Portfolio/Active_Projects/)
+- [🏢 Мой бизнес](13_Business/)
 - [📇 Контакты](05_Relationships/Contact_Database.md)
 - [🩺 Здоровье](10_Health_Wellness/Health_Overview.md)
 
@@ -26,6 +27,12 @@
 - [🚀 Рабочие проекты](03_Professional/Projects_Portfolio/Active_Projects/)
 - [🎓 Развитие навыков](03_Professional/Skills_Development/)
 - [🤝 Деловые контакты](03_Professional/Professional_Network/)
+
+### 🏢 Бизнес
+- [📊 Обзор компании](13_Business/Company_Overview/)
+- [👥 Клиенты и проекты](13_Business/Clients_Projects/)
+- [💰 Финансы бизнеса](13_Business/Financial_Management/)
+- [🎯 Маркетинг и продажи](13_Business/Marketing_Sales/)
 
 ### 💰 Деньги
 - [💸 Бюджет на месяц](04_Financial/Monthly_Budget/)
@@ -59,6 +66,9 @@
 
 ### 🟪 Финансы
 - [04_Financial](04_Financial/) - Все финансовые вопросы
+
+### 🟠 Бизнес
+- [13_Business](13_Business/) - Предпринимательская деятельность
 
 ### 🟫 Архив
 - [12_Archive](12_Archive/) - Завершенное и устаревшее
