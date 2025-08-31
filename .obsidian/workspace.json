@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Financial/Российские_особенности.md",
+                "file": "13_Business/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Российские_особенности"
+              "title": "README"
+            }
+          },
+          {
+            "id": "95653ea748b9bf50",
+            "type": "leaf",
+            "state": {
+              "type": "p2p-replicator",
+              "state": {},
+              "icon": "waypoints",
+              "title": "Peer-to-Peer Replicator"
+            }
+          },
+          {
+            "id": "09bf20e00e8ffa9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LifeOS_Structure.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LifeOS_Structure"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_Financial/Российские_особенности.md",
+                "file": "LifeOS_Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Российские_особенности"
+              "title": "Обратные ссылки для LifeOS_Structure"
             }
           },
           {
@@ -113,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_Financial/Российские_особенности.md",
+                "file": "LifeOS_Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Российские_особенности"
+              "title": "Исходящие ссылки из LifeOS_Structure"
             }
           },
           {
@@ -142,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_Financial/Российские_особенности.md",
+                "file": "LifeOS_Structure.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Российские_особенности"
+              "title": "Структура LifeOS_Structure"
             }
           },
           {
@@ -160,12 +185,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "f7e9726f5caa56a8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 242.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -177,11 +213,26 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:P2P Replicator": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "fa2275068004ce68",
+  "active": "09bf20e00e8ffa9e",
   "lastOpenFiles": [
+    "00_Dashboard_IT_Infrastructure.md",
+    "02_Goals_Achievements/Annual_Goals/2025_Goals.md",
+    "README.md",
+    "11_Systems_Templates/IT_Daily_Checklist.md",
+    "13_Business/Operations/IT_Infrastructure_Project.md",
+    "2025-08-31.md",
+    "NAVIGATION.md",
+    "13_Business/README.md",
+    "07_Life_Management/README.md",
+    "04_Financial/Российские_особенности.md",
     "13_Business/Resources_Tools/README.md",
     "13_Business/Resources_Tools",
     "13_Business/Team_Management/README.md",
@@ -192,7 +243,6 @@
     "13_Business/Knowledge_Base",
     "13_Business/Operations/README.md",
     "13_Business/Operations",
-    "13_Business/README.md",
     "13_Business/Marketing_Sales/README.md",
     "13_Business/Marketing_Sales",
     "13_Business/Financial_Management/README.md",
@@ -208,15 +258,6 @@
     "03_Professional/Projects_Portfolio/Ideas_Backlog/README.md",
     "03_Professional/Projects_Portfolio/Completed_Projects/README.md",
     "03_Professional/Skills_Development/README.md",
-    "03_Professional/Resume_CV/README.md",
-    "03_Professional/Professional_Network/README.md",
-    "03_Professional/Job_Search/README.md",
-    "04_Financial/Financial_Goals/README.md",
-    "04_Financial/Investments/Real_Estate/README.md",
-    "04_Financial/Investments/Crypto/README.md",
-    "04_Financial/Investments/Stocks_Bonds/README.md",
-    "04_Financial/Investments/Portfolio_Overview/README.md",
-    "04_Financial/Taxes/README.md",
-    "04_Financial/Insurance/README.md"
+    "03_Professional/Resume_CV/README.md"
   ]
 }
