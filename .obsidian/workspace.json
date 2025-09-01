@@ -30,23 +30,9 @@
               "icon": "waypoints",
               "title": "Peer-to-Peer Replicator"
             }
-          },
-          {
-            "id": "09bf20e00e8ffa9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LifeOS_Structure.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LifeOS_Structure"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,8 +207,15 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "09bf20e00e8ffa9e",
+  "active": "fa2275068004ce68",
   "lastOpenFiles": [
+    "11_Systems_Templates/LifeOS_Creation_Prompt.md",
+    "04_Financial/04_Financial_Index.md",
+    "03_Professional/03_Professional_Index.md",
+    "02_Goals_Achievements/02_Goals_Index.md",
+    "01_Profile/01_Profile_Index.md",
+    "README.md",
+    "LifeOS_Structure.md",
     "02_Goals_Achievements/Reflection_Journal/2025-01-15_Daily_Reflection.md",
     "02_Goals_Achievements/Habit_Tracking/2025-01-15_Daily_Habits.md",
     "13_Business/Marketing_Sales/amoCRM_Direction_Development.md",
@@ -246,13 +239,6 @@
     "11_Systems_Templates/Raw_Daily_Logs",
     "00_Dashboard_IT_Infrastructure.md",
     "02_Goals_Achievements/Annual_Goals/2025_Goals.md",
-    "README.md",
-    "11_Systems_Templates/IT_Daily_Checklist.md",
-    "13_Business/Operations/IT_Infrastructure_Project.md",
-    "2025-08-31.md",
-    "NAVIGATION.md",
-    "13_Business/README.md",
-    "07_Life_Management/README.md",
     "13_Business/Resources_Tools",
     "13_Business/Team_Management",
     "13_Business/Legal_Documents",
